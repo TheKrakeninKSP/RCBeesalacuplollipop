@@ -64,5 +64,5 @@ void laser_callback(const sensor_msgs::msg::LaserScan::SharedPtr msg) {
 
 Below is a top-down visualization of the maze with the robot using laser sensors for navigation:
 
-![Maze Pathfinding](A_top-down_view_of_a_simple_maze_with_walls_and_a_.png)
+![Maze Pathfinding](img.jpeg)
 
